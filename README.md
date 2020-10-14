@@ -10,3 +10,4 @@
 - [Cloning Tinder Using React Native Elements and Expo](https://www.sitepoint.com/cloning-tinder-using-react-native-elements-expo/)
 - [React native elements with Stylesheet.create](https://stackoverflow.com/questions/58280561/react-native-elements-with-stylesheet-create)
 - [Unit Testing In React Native Applications](https://www.smashingmagazine.com/2020/09/unit-testing-react-native-applications/)
+- [3 Things I Wish I Knew Before Migrating to React Native and Integrating Expo for the First Time](https://medium.com/rewire-to/3-things-i-wish-i-knew-before-migrating-to-react-native-and-integrating-expo-for-the-first-time-86f8fe7967ac)
